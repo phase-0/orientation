@@ -1,2 +1,0 @@
-# This curriculum test
-:dog:
